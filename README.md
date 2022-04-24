@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/LuccasMarques">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuccasMarques&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasMarques&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuccasMarques&show_icons=true&theme=dark &include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasMarques&layout=compact&langs_count=7&theme=dark "/>
 </div>
 <div> 
   <a href="https://instagram.com/luccasym" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
